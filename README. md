@@ -1,0 +1,34 @@
+# Adedamola Onakoya's Ethical Hacking Portfolio 🔒
+
+Aspiring Penetration Tester based in Lagos, Nigeria. Passionate about uncovering vulnerabilities to build secure systems. Currently grinding CEH certification and CTF challenges on TryHackMe/HackTheBox.
+
+## 🛠️ Skills
+- **Tools:** Nmap, Burp Suite, Metasploit, Wireshark
+- **Languages:** Python (for exploits/scripts), Bash
+- **Domains:** Web App Pentesting, Network Scanning, Cloud Security (AWS basics)
+- **Platforms:** Kali Linux, OWASP Top 10
+
+## 📁 Projects
+### 1. Simple Port Scanner (Python)
+A lightweight Nmap-inspired scanner for quick recon. Detects open ports on targets.
+- [View Script](./scripts/port_scanner.py)
+- Key Learnings: Socket programming, error handling for timeouts.
+
+### 2. CTF Write-Up: Basic SQLi Challenge
+Walkthrough of exploiting a vulnerable login form on PortSwigger Academy.
+- [Read Full Write-Up](./writeups/sql_injection.md)
+- Tools Used: Burp Suite, sqlmap.
+
+*(Add more as you build—start with 2-3 placeholders. Link to Gists if no code yet.)*
+
+## 📚 Certifications & Learning
+- **CEH (Certified Ethical Hacker):** In progress (expected Q1 2026)
+- **Completed:** TryHackMe "Pre-Security" path, Forage Cybersecurity Job Sim
+- **Next Up:** OSCP prep, Bug Bounty hunting on HackerOne
+
+## 🌐 Connect
+- [LinkedIn](https://www.linkedin.com/in/adedamola-onakoya-pentester)
+- [TryHackMe Profile](https://tryhackme.com/p/yourhandle) *(Add when you make one)*
+- Email: adedamola@example.com *(Use a pro one)*
+
+Let's collab on some red team fun! Open to feedback/PRs. #EthicalHacking #Pentesting
